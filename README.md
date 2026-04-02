@@ -56,7 +56,7 @@ The system follows a **modular multi-agent design**:
 5. Synthesis Agent aggregates outputs  
 6. Final structured report generated  
 
-> Refer to `/assets/workflow.svg` for visual representation
+Refer to `/assets/recruitment_data_flow.svg` for visual representation
 
 ---
 
